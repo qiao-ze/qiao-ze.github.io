@@ -80,7 +80,7 @@
                 ],
                 "env":{
                     "main_color": "#0C4259",
-                    "second_color": "#0a7d43"
+                    "second_color": "#0C4259"
                 }
             }
         }
