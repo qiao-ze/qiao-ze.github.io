@@ -1,32 +1,23 @@
 ---
-title: gantt图
-keywords: 第一篇博客
+title: 2024年上半年工作计划表
+keywords: 计划
 desc: teedoc 生成静态博客页面, 第一篇博客
-author: neucrack
-date: 2021-03-14
+author: derk
+date: 2023-11-26
 tags: hello, blog, teedoc
 ---
 
 
 
 
-这是一段测试简介，会显示在列表中，使用`<!-- more -->`来分隔正文
-
-<!-- more -->
-
-
-## 正文标题一
-
-正文
-
-## 正文标题二
+## 上半年工作计划表
 
 正文
 
 ```mermaid
  gantt
      dateFormat  YYYY-MM-DD
-     title Adding GANTT diagram functionality to mermaid
+     title 2024年上半年工作计划表
      section A section
      Completed task             :done,    des1, 2014-01-06,2014-01-08
      Active task                :active,  des2, 2014-01-09, 3d
