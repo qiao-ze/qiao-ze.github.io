@@ -1,5 +1,5 @@
 ---
-title: 2024年上半年工作计划表
+title: 学期工作计划表
 keywords: 计划
 desc: teedoc 生成静态博客页面, 第一篇博客
 author: derk
