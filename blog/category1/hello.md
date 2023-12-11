@@ -1,5 +1,5 @@
 ---
-title: gantt图
+title: 常用图表
 keywords: 第一篇博客
 desc: teedoc 生成静态博客页面, 第一篇博客
 author: neucrack
@@ -9,19 +9,7 @@ tags: hello, blog, teedoc
 
 
 
-
-这是一段测试简介，会显示在列表中，使用`<!-- more -->`来分隔正文
-
-<!-- more -->
-
-
-## 正文标题一
-
-正文
-
-## 正文标题二
-
-正文
+## gantt图
 
 ```mermaid
  gantt
@@ -52,4 +40,33 @@ tags: hello, blog, teedoc
      Add another diagram to demo page    : 48h
 ```
 
+## mindmap
+
+```mermaid
+ mindmap
+  root((mindmap))
+    Origins
+      Long history
+      ::icon(fa fa-book)
+      Popularisation
+        British popular psychology author Tony Buzan
+    Research
+      On effectivness<br/>and features
+      On Automatic creation
+        Uses
+            Creative techniques
+            Strategic planning
+            Argument mapping
+    Tools
+      Pen and paper
+      Mermaid
+```
+
+## pie图
+```mermaid
+ pie title Pets adopted by volunteers
+    "Dogs" : 386
+    "Cats" : 85
+    "Rats" : 15
+```
 
