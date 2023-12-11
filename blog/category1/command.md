@@ -7,6 +7,9 @@ date: 2023-12-11
 tags: DFT, Ubuntu, Gaussian
 ---
 
+
+
+
 <strong><center><font face="微软雅黑" color=maroon size=5>常用命令与设置参数</font></center></strong>
 <center><font face="Consolas" size=3>06/12-23 by Qiao</font></center>
 
