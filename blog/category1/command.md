@@ -1,5 +1,5 @@
 ---
-title: 计算化学常用输入命令集
+title: 计算常用命令
 keywords: 指令
 desc: teedoc 生成静态博客页面, 第3篇博客
 author: derk
