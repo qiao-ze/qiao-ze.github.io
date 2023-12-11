@@ -3,3 +3,5 @@ items:
     file: README.md
 -   label: 计划表
     file: gantt-copy.md
+-   label: 常用工具
+    file: command.md
