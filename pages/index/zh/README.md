@@ -9,7 +9,7 @@ id: home_page
 %nprocshared=8
 %mem=28732MB
 %chk=AF-TPyr-CN.chk
-#p opt b3lyp/6-31g(d) em=gd3bj
+`#`p opt b3lyp/6-31g(d) em=gd3bj
 
 opt
 
