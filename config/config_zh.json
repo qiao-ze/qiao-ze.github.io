@@ -11,12 +11,12 @@
         "items": [
             {
                 "url": "/get_started/zh/",
-                "label": "安装使用",
+                "label": "[ 安装使用 ]",
                 "position": "left"
             },
             {
                 "url": "/blog/",
-                "label": "个人博客",
+                "label": "[ 个人博客 ]",
                 "position": "left"
             },
             {
