@@ -17,7 +17,7 @@ tags: hello, blog, teedoc
 ```mermaid
  gantt
      dateFormat  YYYY-MM-DD
-     title 2024年上半年工作计划表
+     title 2023年各项目实际进度表
      section A section
      Completed task             :done,    des1, 2014-01-06,2014-01-08
      Active task                :active,  des2, 2014-01-09, 3d
