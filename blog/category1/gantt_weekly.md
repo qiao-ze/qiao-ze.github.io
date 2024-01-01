@@ -16,7 +16,7 @@ tags: hello, blog, teedoc
 
 ```mermaid
  gantt
-     dateFormat  YY-MM-DD
+     dateFormat  MM-DD
      title 2023年各项目实际进度表
      section 双波段吸收
      TPD-TPA-4X            :done,    des1, 23-02-05,23-03-04
