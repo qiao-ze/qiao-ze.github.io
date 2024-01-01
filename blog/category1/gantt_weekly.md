@@ -35,11 +35,14 @@ tags: hello, blog, teedoc
      AF-based            :    des3, 23-08-28,23-10-07
      AF-based            :    des3, 23-11-12,23-12-30
   
-    
- 
-     
-     
- 
+     section 双波段单组份
+     Y6-TPD-TPA            :done,    des1, 23-06-18,23-09-09
+     Y6-TPD-TPA            :done,    des2, 23-09-17,23-11-25
+   
+     section 疏水ETL材料
+     PDI-based            :    des1, 23-09-18,23-09-23
+     PDI-based            :    des2, 23-10-08,23-10-14
+     PDI-based            :    des3, 23-11-12,23-12-02 
      
 ```
 
