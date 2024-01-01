@@ -18,7 +18,7 @@ tags: hello, blog, teedoc
  gantt
      dateFormat  YYYY-MM-DD
      title 2023年各项目实际进度表
-     section A section
+     section 双波段吸收（TPD-TPA-4X）
      Completed task             :done,    des1, 2014-01-06,2014-01-08
      Active task                :active,  des2, 2014-01-09, 3d
      Future task                :         des3, after des2, 5d
