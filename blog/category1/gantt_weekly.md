@@ -19,10 +19,10 @@ tags: hello, blog, teedoc
      dateFormat  YY-MM-DD
      title 2023年各项目实际进度表
      section 双波段吸收
-     TPD-TPA-4X            :done,    des1, 23-02-05,23-03-04
-     TPD-TPA-4X            :done,    des2, 23-03-19,23-04-01
-     TPD-TPA-4X            :done,    des3, 23-04-16,23-04-29
-     TPD-TPA-4X            :done,    des4, 23-05-14,23-06-10
+     TPD-TPA-4X            :    des1, 23-02-05,23-03-04
+     TPD-TPA-4X            :    des2, 23-03-19,23-04-01
+     TPD-TPA-4X            :    des3, 23-04-16,23-04-29
+     TPD-TPA-4X            :    des4, 23-05-14,23-06-10
 
      section 醇溶受体
      Y6-G1            :done,    des1, 23-02-19,23-05-13
@@ -30,10 +30,10 @@ tags: hello, blog, teedoc
      Y6-G1            :done,    des3, 23-11-27,23-12-16
 
      section Heliatek给体
-     AF-based            :done,    des1, 23-06-18,23-07-08
-     AF-based            :done,    des2, 23-07-23,23-08-12
-     AF-based            :done,    des3, 23-08-28,23-10-07
-     AF-based            :done,    des3, 23-11-12,23-12-30
+     AF-based            :    des1, 23-06-18,23-07-08
+     AF-based            :    des2, 23-07-23,23-08-12
+     AF-based            :    des3, 23-08-28,23-10-07
+     AF-based            :    des3, 23-11-12,23-12-30
   
     
  
