@@ -46,7 +46,8 @@ Multiwfn载入--hess或--ohess的输出文件后，进主功能11，选择IR或R
   
 <strong><font face="微软雅黑" color=blue size=4>lampps常用命令</font></strong><br>
 
-<font face="Consolas" size=3>安装参考： https://zhuanlan.zhihu.com/p/337947153<br>
+<font face="Consolas" size=3>
+安装参考： https://zhuanlan.zhihu.com/p/337947153<br>
 运行命令<br> 
 mpirun -np 2 ~/lammps/build/lmp -in ~/lammps/examples/deposit/in.deposit.atom 3374<br>
 mpirun -np 4 ~/lammps/build/lmp -in ~/lammps/examples/deposit/in.deposit.atom 4437<br>
