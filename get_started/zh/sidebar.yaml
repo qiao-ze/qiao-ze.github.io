@@ -1,5 +1,5 @@
 items:
--   label: 简介
+-   label: 软件汇总
     file: README.md
 -   label: 计划表
     file: gantt-copy.md
