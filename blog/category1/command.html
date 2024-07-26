@@ -197,6 +197,15 @@ mpirun -np 10 ~/lammps/build/lmp -in ~/lammps/examples/deposit/in.deposit.atom 6
 mpirun -np 12 ~/lammps/build/lmp -in ~/lammps/examples/deposit/in.deposit.atom 7589<br><br />
 mpirun -np 14 ~/lammps/build/lmp -in ~/lammps/examples/deposit/in.deposit.atom 6850<br><br />
 mpirun -np 16 ~/lammps/build/lmp -in ~/lammps/examples/deposit/in.deposit.atom 5302</font><br></p>
+<p><strong><font face="微软雅黑" color=blue size=4>bat脚本</font></strong><br></p>
+<font face="Consolas" size=3>
+000_gjf2xyz_copy2xtb.bat<br>
+Multiwfn 1.gjf < gjf2xyz.txt<br>
+copy "d:\app\lab app\Multiwfn_3.8_dev_bin_Win64\1.xyz" "d:\app\lab app\xtb-6.7.0\bin\1.xyz"<br>
+<p>000_Run_xtb.bat<br><br />
+cmd /k &quot;cd /d D:\app\lab app\xtb-6.7.0\bin&amp;&amp;xtb 1.xyz --opt extreme --gfn 2&quot;<br></p>
+<p>000_log2xyz.bat<br><br />
+ren <em>.log </em>_000.xyz</font><br></p>
 
                         
                     </div>
