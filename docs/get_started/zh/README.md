@@ -1,22 +1,14 @@
 ---
-title: 文章标题
+title: 常用软件
 keywords: 关键词1, 关键词2
 desc: 这里写文章简介
-date: 2022-09-01
+date: 2024-07-26
 ---
 
-## 添加文章
+## 质谱软件
 
-* 在本文件所在目录创建 markdown 以  `.md` 结尾的文件，比如 `first.md`
-* 在 `sidebar.yaml` 中添加侧边栏链接
-
-```markdown
-items:
--   label: Brief
-    file: README.md
--   label: First
-    file: first.md
-```
+* ProteoWizard 3.0.23350 64-bit > MSConvertGUI (64-bit)
+* MestReNova Version: 14.2.1-27684
 
 ## 更多例子
 
