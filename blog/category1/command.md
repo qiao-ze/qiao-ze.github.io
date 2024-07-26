@@ -57,9 +57,9 @@ mpirun -np 10 ~/lammps/build/lmp -in ~/lammps/examples/deposit/in.deposit.atom 6
 mpirun -np 12 ~/lammps/build/lmp -in ~/lammps/examples/deposit/in.deposit.atom 7589<br>
 mpirun -np 14 ~/lammps/build/lmp -in ~/lammps/examples/deposit/in.deposit.atom 6850<br>
 mpirun -np 16 ~/lammps/build/lmp -in ~/lammps/examples/deposit/in.deposit.atom 5302</font><br>
-
+<br>
 <strong><font face="微软雅黑" color=blue size=4>bat脚本</font></strong><br>
-
+<br>
 <font face="Consolas" size=3>
 000_gjf2xyz_copy2xtb.bat<br>
 Multiwfn 1.gjf < gjf2xyz.txt<br>
